@@ -1,0 +1,82 @@
+body {
+    background-image: url("imagenes/bright_and_sunny-Natural_landscape_HD_wallpaper_1920x1200.jpg");
+    background-size: cover;
+    /* background-color:#a617df; */
+}
+
+.flexcontainer {
+    background: none;
+    width: auto;
+    height: auto;
+    display: flex;
+
+
+}
+
+.name {
+    background-color: white;
+    width: 800px;
+    height: 110px;
+    margin: -1%;
+    font-size: 300%;
+    color: black;
+    font-style: oblique;
+    display: flex;
+    align-items: center;
+}
+
+.section {
+    background-color: white;
+    width: 900px;
+    height: 110px;
+    margin: -1%;
+    font-size: 200%;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+.women {
+    background-color: rgba(245, 116, 2, 0.363);
+    width: 109px;
+    height: 50px;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 60%;
+    margin-top: 4%;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.men {
+    background-color: rgba(245, 116, 2, 0.363);
+    width: 145px;
+    height: 50px;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 75%;
+    margin-top: -3.3%;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+
+.phrase {
+    background-color: rgba(10, 0, 0, 0.725);
+    width: 900px;
+    height: 100px;
+    margin-left: 25%;
+    margin-top: 8%;
+    font-size: 170%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+
+}
